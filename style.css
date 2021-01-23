@@ -1,0 +1,58 @@
+body, html{
+  background: #2c2f33;
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+#button1 {
+  border: 1px solid yellow;
+  font-size: 30px;
+  font-family: Courier New;
+  background: #2a2a2a;
+  color: white;
+  border-top-left-radius: 1000px;
+  border-bottom-left-radius: 1000px;
+}
+
+#button2 {
+  border: 1px solid yellow;
+  font-size: 30px;
+  font-family: Courier New;
+  background: #2a2a2a;
+  color: white;
+  border-top-right-radius: 1000px;
+  border-bottom-right-radius: 1000px;
+}
+
+#button3 {
+  border: 1px solid yellow;
+  font-size: 30px;
+  font-family: Courier New;
+  background: #2a2a2a;
+  color: white;
+}
+
+#display {
+  border: 1px solid #7289da;
+  background: #23272a;
+  color: white;
+  font-family: Sans-Serif;
+  border-left-width: 10px;
+  border-right-width: 10px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#buttonsinfo {
+  color: white;
+}
+
+#header {
+  border: 1px solid #2a2a2a;
+  background: #2a2a2a;
+  color: white;
+  margin: 0;
+  position: relative;
+  top: -20px;
+}
